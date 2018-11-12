@@ -1,6 +1,6 @@
 token=NTExMjg2MDQ0ODIyNjAxNzI4.DsotDg.PoM5QdirZJm7pK1acD15TsR9dK0
 owner=311603535466856458
 prefix=A
-game=Aplay
+game=♬life is beautifule♬.
 stayinchannel=true 
 songinstatus=true
