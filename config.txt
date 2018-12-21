@@ -1,4 +1,4 @@
-token=NTExMjg2MDQ0ODIyNjAxNzI4.DsotDg.PoM5QdirZJm7pK1acD15TsR9dK0
+token=NTExMjg2MDQ0ODIyNjAxNzI4.Dv5rpQ.ryBCoPIsDGWwM8cauD-WHCuT3eU
 owner=311603535466856458
 prefix=A
 game=♬life is beautifule♬.
